@@ -5,7 +5,10 @@ public class Endereco {
     private  String cep;
 
 
-
+    public  void imprime(){
+        Pessoa p =new Pessoa();
+        p.nome ="FELIPE";
+    }
     public String getRua() {
         return rua;
     }
