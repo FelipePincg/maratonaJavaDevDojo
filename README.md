@@ -14,7 +14,9 @@ Orientado a Objetos : Usa conceitos como classes ,herança e polimorfismo e enca
 
 Portabilidade: O código é compilado para um bytecode que pode ser executado em qualquer JVM.
 
-Seguro Possui um genrenciador de segurança que restringe ações potencialmente perigosas.
+Seguro Possui um gerenciador de segurança que restringe ações potencialmente perigosas.
 
-Multithreading: Permiotir a execução de várias tarefas simultaneamente.
+Multithreading: Permitir a execução de várias tarefas simultaneamente.
 ´´´
+
+
