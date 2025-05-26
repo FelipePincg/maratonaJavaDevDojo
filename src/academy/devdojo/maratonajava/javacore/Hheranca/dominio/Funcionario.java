@@ -1,7 +1,8 @@
 package academy.devdojo.maratonajava.javacore.Hheranca.dominio;
 
-public class Funcionario extends  Pessoa{
+import academy.devdojo.maratonajava.javacore.Gassociacao.dominio.Aluno;
 
+public class Funcionario extends  Pessoa {
 
     private double salario;
 
@@ -16,5 +17,6 @@ public class Funcionario extends  Pessoa{
     public void setSalario(double salario) {
         this.salario = salario;
     }
+
 
 }
