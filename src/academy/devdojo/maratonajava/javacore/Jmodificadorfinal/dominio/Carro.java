@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.javacore.Jmodificadorfinal.dominio;
 
-public class Carro {
+public   class Carro {
 
     private String nome;
     // constante em javacore,precisa estar em upper case com underscore entre os espaços
@@ -8,6 +8,11 @@ public class Carro {
     public final  Comprador COMPRADOR = new Comprador();
 
 
+
+
+    public final void imprime(){
+        System.out.println(this.nome);
+    }
     public String getNome() {
         return nome;
     }

@@ -18,5 +18,8 @@ Seguro Possui um gerenciador de segurança que restringe ações potencialmente 
 
 Multithreading: Permitir a execução de várias tarefas simultaneamente.
 ´´´
+ ##Onde Parei
+85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
 
+Hoje eu aprendi sobre classes  e metodos abstratos.
 
